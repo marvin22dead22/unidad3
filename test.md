@@ -9,3 +9,5 @@ Hola, mi nombre es Julio Palencia y mi carné es 18001570.
 Hola, mi nombre es Wilver Martinez y mi carné es 18008409.
 
 Hola, mi nombre es Erik Rodriguez y mi carne es 17002142
+
+Hola, mi nombre es Francisco Duarte y mi carné es 17001004
