@@ -11,3 +11,6 @@ Hola, mi nombre es Wilver Martinez y mi carné es 18008409.
 Hola, mi nombre es Erik Rodriguez y mi carne es 17002142
 
 Hola, mi nombre es Francisco Duarte y mi carné es 17001004
+
+Hola, mi nombre es Edgar Eduardo Jocol Morales y mi carné es: 18007489
+
