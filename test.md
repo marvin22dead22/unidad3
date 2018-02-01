@@ -11,3 +11,5 @@ Hola, mi nombre es Wilver Martinez y mi carné es 18008409.
 Hola, mi nombre es Erik Rodriguez y mi carne es 17002142
 
 Hola, mi nombre es Francisco Duarte y mi carné es 17001004
+
+Hoal, mi nombre es Cristian Montes de Oca mi care es 18008628
