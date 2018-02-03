@@ -19,3 +19,5 @@ Hola, mi nombre es Alejandro Acevedo y mi carné es 07117043
 Hola, mi nombre es Cristian Montes de Oca mi care es 18008628
 
 Hola, Mi nombre es Gustavo Pereira y mi carnet es 08000114.
+
+Hola, Mi nombre es Jose Almendarez y mi carnet es 18006306.
