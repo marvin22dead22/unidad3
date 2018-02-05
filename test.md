@@ -18,4 +18,5 @@ Hola, mi nombre es Alejandro Acevedo y mi carné es 07117043
 
 Hola, mi nombre es Cristian Montes de Oca mi care es 18008628
 
-Hola, Mi nombre es Gustavo Pereira y mi carnet es 08000114."Hola, me llamo Emily García Merlos y mi carné es 18009133"
+Hola, Mi nombre es Gustavo Pereira y mi carnet es 08000114.
+Hola, me llamo Emily García Merlos y mi carné es 18009133 
