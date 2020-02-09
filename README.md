@@ -10,3 +10,5 @@ Hola, mi nombre es Sergio Renato Aldana y mi carné es 20001908<br>
 "Hola, mi nombre es Edsson rodriguez y mi carné es 20000235!"
 Hola, mi nombre es Luis Marroquin y mi carné es 20000202.<br>
 Hola, mi nombre es Rember Garcia y mi carné es 20004461<br>
+Hola, mi nombre es Javier Jiménez y mi carné es 20002901.<br>
+Hola, mi nombre es Valeria Monge Gómez y mi carné es 20007564.<br>
