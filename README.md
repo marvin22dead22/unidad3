@@ -20,3 +20,4 @@ Hola, mi nombre es Luis Vallejo  y mi carné es 20006534<br>
 Hola, mi nombre es Manuel Morales y mi carné es 20007034<br>
 Hola, mi nombre es Oscar Dario Castellanos Gomez y mi carné es 18005762.<br>
 Hola, mi nombre es Cesar Avelar y mi carné es 20002450<br>
+Hola, mi nombre es Edvin Solares y mi carne es 20000411<br>
