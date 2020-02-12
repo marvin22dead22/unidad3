@@ -7,7 +7,7 @@ Hola, mi nombre es Brandon Alexei y mi carné es el 20002896.<br>
 Hola, mi nombre es Hugo Velásquez y mi carné es 20000261<br>
 Hola, mi nombre es Gustavo Menéndez y mi carné es 20000204.<br>
 Hola, mi nombre es Sergio Renato Aldana y mi carné es 20001908<br>
-"Hola, mi nombre es Edsson rodriguez y mi carné es 20000235!"<br>
+Hola, mi nombre es Edsson rodriguez y mi carné es 20000235!<br>
 Hola, mi nombre es Luis Marroquin y mi carné es 20000202.<br>
 Hola, mi nombre es Javier Jiménez y mi carné es 20002901.<br>
 Hola, mi nombre es Oliver Rivera y mi carné es 10111164.<br>
@@ -21,3 +21,4 @@ Hola, mi nombre es Manuel Morales y mi carné es 20007034<br>
 Hola, mi nombre es Oscar Dario Castellanos Gomez y mi carné es 18005762.<br>
 Hola, mi nombre es Cesar Avelar y mi carné es 20002450<br>
 Hola, mi nombre es Edvin Solares y mi carne es 20000411<br>
+Hola, mi nombre es Eduardo Meister y mi carne es 20006044<br>
