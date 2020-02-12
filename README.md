@@ -1,4 +1,4 @@
-﻿Hola, mi nombre es Isabel y mi carné es 20052004.<br>
+Hola, mi nombre es Isabel y mi carné es 20052004.<br>
 Hola, me llamo Cristian Castellanos y mi carné es 20002582<br>
 Hola, me llamo Edwin Barahona y mi carné es 15004385!<br>
 Hola, mi nombre es Gabriela Recinos y mi carne es el 20003024.<br>
@@ -22,3 +22,4 @@ Hola, mi nombre es Oscar Dario Castellanos Gomez y mi carné es 18005762.<br>
 Hola, mi nombre es Cesar Avelar y mi carné es 20002450<br>
 Hola, mi nombre es Edvin Solares y mi carne es 20000411<br>
 Hola, mi nombre es Eduardo Meister y mi carne es 20006044<br>
+Hola, mi nombre es Byron Lopez y mi carné es 14003544.<br>
