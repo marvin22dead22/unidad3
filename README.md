@@ -25,3 +25,7 @@ Hola, mi nombre es Eduardo Meister y mi carne es 20006044<br>
 Hola, mi nombre es Byron Lopez y mi carné es 14003544.<br>
 Hola, mi nombre es William Catalán y mi carné es 20002284.<br>
 Hola, mi nombre es yeffry Aroche y mi carne es 20007024.<br>
+Hola, mi nombre es Rony Orlando Alonzo Juarez y mi carné es 04118037.<br>
+Hola, mi nombre es Yeffry Aroche y mi carne es. 20007024.<br>
+Hola, mi nombre es William Catalán y mi carné es 20002284.<br>
+
