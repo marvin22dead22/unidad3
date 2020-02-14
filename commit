@@ -1,0 +1,790 @@
+[33mcommit ee6a4d7a6fa384fc6ecf3e2b53ab7cb7b48a8db3[m[33m ([m[1;36mHEAD -> [m[1;32mcontribucion-gary[m[33m, [m[1;31morigin/contribucion-gary[m[33m)[m
+Author: Gary Jiménez <garyjimenez0102@gmail.com>
+Date:   Thu Feb 13 21:29:34 2020 -0600
+
+    Agregué mi contribucion en el README.md
+
+[33mcommit bb613a44c08dec33881d372cb5b152ac48ac76e8[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: e2f0ea1 22dd090
+Author: yeffarm <60728533+yeffarm@users.noreply.github.com>
+Date:   Thu Feb 13 13:26:43 2020 -0600
+
+    Merge pull request #54 from isabelgg22/rony
+    
+    Agregando mis datos
+
+[33mcommit 22dd0909bbbdfbac04c52f603994773d576d4473[m[33m ([m[1;31morigin/rony[m[33m)[m
+Merge: 7afa2a2 e2f0ea1
+Author: yeffarm <60728533+yeffarm@users.noreply.github.com>
+Date:   Thu Feb 13 13:26:19 2020 -0600
+
+    Merge branch 'master' into rony
+
+[33mcommit e2f0ea179711095fe0ccdf39cfd67739dc505506[m
+Author: william1999catalan <60628180+william1999catalan@users.noreply.github.com>
+Date:   Thu Feb 13 01:33:49 2020 -0600
+
+    Agregando mi nombre y numero de Carne (#50)
+
+[33mcommit 7afa2a267a02c22646b422485c9f8469208d870b[m
+Author: Tareas <ralonzo06.ra@gmail.com>
+Date:   Wed Feb 12 22:43:32 2020 -0600
+
+    Agregando mis datos
+
+[33mcommit 709f1738155f998c2ffb9af2521ea87bae6ec713[m
+Merge: 11df9b6 55c6754
+Author: isabelgg22 <35257067+isabelgg22@users.noreply.github.com>
+Date:   Wed Feb 12 21:21:17 2020 +0100
+
+    Merge pull request #48 from ByronEaDev/readme
+    
+    Mi commit
+
+[33mcommit 55c6754323e9881aa8d8b91e754bd5d58756c11d[m
+Merge: 50aeb56 11df9b6
+Author: isabelgg22 <35257067+isabelgg22@users.noreply.github.com>
+Date:   Wed Feb 12 21:20:51 2020 +0100
+
+    Merge branch 'master' into readme
+
+[33mcommit 11df9b6fd3d0cfdf3518f400b8bb00770cc0ce3e[m
+Merge: 8d057fc ef06eb9
+Author: isabelgg22 <35257067+isabelgg22@users.noreply.github.com>
+Date:   Wed Feb 12 21:19:33 2020 +0100
+
+    Merge pull request #45 from isabelgg22/meister
+    
+    Arreglando mi presentacion en el Readme.md
+
+[33mcommit ef06eb9ab22691e05ba83e6f60ea4c53de6d0a4d[m
+Merge: 8b159ae 8d057fc
+Author: isabelgg22 <35257067+isabelgg22@users.noreply.github.com>
+Date:   Wed Feb 12 21:19:15 2020 +0100
+
+    Merge branch 'master' into meister
+
+[33mcommit 8d057fc09a0903ce0bb1bb97fbb8a094bcdc8e2a[m
+Merge: 59ad03f 26a407b
+Author: isabelgg22 <35257067+isabelgg22@users.noreply.github.com>
+Date:   Wed Feb 12 21:18:02 2020 +0100
+
+    Merge pull request #44 from isabelgg22/contribucionedvinsolares
+    
+    contribucionedvinsolares
+
+[33mcommit 26a407b5adf24db70cccbcdbe021f84905c105a3[m
+Merge: c3dd330 59ad03f
+Author: isabelgg22 <35257067+isabelgg22@users.noreply.github.com>
+Date:   Wed Feb 12 21:17:53 2020 +0100
+
+    Merge branch 'master' into contribucionedvinsolares
+
+[33mcommit 59ad03f085f92313c994543c1acb9cf0ada9300e[m
+Merge: 903018c 55bdb4c
+Author: isabelgg22 <35257067+isabelgg22@users.noreply.github.com>
+Date:   Wed Feb 12 21:16:23 2020 +0100
+
+    Merge pull request #43 from csarlv/csar
+    
+    Contribución-CesarAvelar
+
+[33mcommit 55bdb4ccd765a5795b79c5db30755a735d51c620[m
+Merge: a8cc7f8 903018c
+Author: isabelgg22 <35257067+isabelgg22@users.noreply.github.com>
+Date:   Wed Feb 12 21:16:06 2020 +0100
+
+    Merge branch 'master' into csar
+
+[33mcommit 50aeb5671113763d942281889d9178d2511f6ff5[m
+Author: Byron Lopez <byronj93@hotmail.com>
+Date:   Tue Feb 11 22:02:04 2020 -0600
+
+    Mi commit
+
+[33mcommit 903018c9051db7a5d675198a53ee021a1d2e54a3[m
+Merge: fec54e2 aeddf27
+Author: wmeister12 <60616275+wmeister12@users.noreply.github.com>
+Date:   Tue Feb 11 21:20:30 2020 -0600
+
+    Merge pull request #47 from isabelgg22/contrubuion-oscascastellanos
+    
+    Agregue mi nombre y número de carné en REDME.md
+
+[33mcommit aeddf27238df3145dae862d85e4175190abb5f7e[m
+Author: ocg1992 <dar.cremadrid@gmail.com>
+Date:   Tue Feb 11 20:34:16 2020 -0600
+
+    Agregue mi nombre y numero de carné
+
+[33mcommit fec54e2b7bedee3fe1779e7562fbeebd8cacf17a[m
+Merge: ecd7bad e5507fc
+Author: wmeister12 <60616275+wmeister12@users.noreply.github.com>
+Date:   Tue Feb 11 18:23:20 2020 -0600
+
+    Merge pull request #42 from isabelgg22/contribuion-manuel
+    
+    Cambios Manuel Morales en el README.md
+
+[33mcommit 8b159aef6153cf1b6754904acc31f59202ad25ff[m
+Author: Eduardo Meister <eduardo.meister@galileo.edu>
+Date:   Tue Feb 11 17:51:01 2020 -0600
+
+    Cambio Eduardo Meister
+
+[33mcommit c3dd330892c57b77ab34909f2c12652440b2cf55[m
+Author: Edvin Solares <blues_23@hotmail.es>
+Date:   Tue Feb 11 00:07:17 2020 -0600
+
+    contribucionedvinsolares
+
+[33mcommit a8cc7f84fbd21f9e0907bfb5dd3d67cfd90e04d7[m
+Author: csarlv <54201426+csarlv@users.noreply.github.com>
+Date:   Mon Feb 10 19:28:12 2020 -0600
+
+    Update README.md
+
+[33mcommit e5507fc54dfa6b5de6aa9792e1e85ec5ad13c768[m
+Author: Raicob <raicob@outlook.com>
+Date:   Mon Feb 10 15:40:42 2020 -0600
+
+    Cambios Manuel Morales
+
+[33mcommit ecd7badfbf08fc656fc2a275e57af1f3cc1ea98e[m
+Merge: a3c48d0 6b5f289
+Author: isabelgg22 <35257067+isabelgg22@users.noreply.github.com>
+Date:   Mon Feb 10 20:38:09 2020 +0100
+
+    Merge pull request #41 from isabelgg22/Contribucion-LuisV
+    
+    Agregando mi nombre al Readme.md
+
+[33mcommit 6b5f289269e6a248aff236a9082046456f7dcf24[m
+Author: isabelgg22 <35257067+isabelgg22@users.noreply.github.com>
+Date:   Mon Feb 10 20:36:47 2020 +0100
+
+    Update README.md
+
+[33mcommit 57b486adab7a078b917f7430d04ead0b0ac516f8[m
+Author: Luis Vallejo <luis.vallejo@galileo.edu>
+Date:   Mon Feb 10 12:37:04 2020 -0600
+
+    Agregando mi nombre al Readme
+
+[33mcommit a3c48d0f7f0cea93c837da241f960d5b24bcd9e2[m
+Merge: c100753 91c98aa
+Author: isabelgg22 <35257067+isabelgg22@users.noreply.github.com>
+Date:   Mon Feb 10 08:43:02 2020 +0100
+
+    Merge pull request #40 from isabelgg22/contribucion-douglas
+    
+    Agregando mi presentación en el Readme.md
+
+[33mcommit 91c98aac3b8b2355068715ca51ac5592806b11bc[m[33m ([m[1;31morigin/contribucion-douglas[m[33m)[m
+Merge: e5612e3 c100753
+Author: dcalderon30 <54612399+dcalderon30@users.noreply.github.com>
+Date:   Sun Feb 9 23:20:47 2020 -0600
+
+    Merge branch 'master' into contribucion-douglas
+
+[33mcommit c1007539b3cf798611356e2b09e2c76bbfdd66fa[m
+Merge: 9ff8f38 7f9abf7
+Author: dcalderon30 <54612399+dcalderon30@users.noreply.github.com>
+Date:   Sun Feb 9 23:13:28 2020 -0600
+
+    Merge pull request #39 from isabelgg22/CharlieG55
+    
+    Participacion Semana 3 - Carlos Grajeda
+
+[33mcommit e5612e3f01a6e0a2c8f6f3f019cd164298eb3d4f[m
+Author: dcalderon30 <54612399+dcalderon30@users.noreply.github.com>
+Date:   Sun Feb 9 22:53:32 2020 -0600
+
+    Agregando mi presentacion en el Readme
+
+[33mcommit 7f9abf74fb13ef932ca04e83e1753dc435d6ae78[m
+Author: CharlieG55 <carlosgrajedaf04@gmail.com>
+Date:   Sun Feb 9 21:02:19 2020 -0600
+
+    Participacion Semana 3 - Carlos Grajeda
+
+[33mcommit 9ff8f38817c1ecded1830a662befaa6a05658e92[m
+Merge: 4cae3e4 b3c2a79
+Author: Sergio Renato Aldana Alvarez <60765721+sergioraldana@users.noreply.github.com>
+Date:   Sun Feb 9 16:30:52 2020 -0600
+
+    Merge pull request #37 from isabelgg22/Contribucion-Oliver
+    
+    Contribucion Oliver
+
+[33mcommit b3c2a7958122f9a93f014b85622039ee51f9c8c2[m[33m ([m[1;31morigin/Contribucion-Oliver[m[33m)[m
+Merge: ffa7a7b 4cae3e4
+Author: Sergio Renato Aldana Alvarez <60765721+sergioraldana@users.noreply.github.com>
+Date:   Sun Feb 9 16:30:29 2020 -0600
+
+    Merge branch 'master' into Contribucion-Oliver
+
+[33mcommit 4cae3e4cb1d9c2e2606d9d2ca7886626ea4faeee[m
+Merge: da51447 69f6cc9
+Author: Sergio Renato Aldana Alvarez <60765721+sergioraldana@users.noreply.github.com>
+Date:   Sun Feb 9 16:29:15 2020 -0600
+
+    Merge pull request #36 from isabelgg22/contribucion-Rember
+    
+    Contribucion rember
+
+[33mcommit 69f6cc9a4c6d3c48761bafffc9b2d9fab53a86aa[m[33m ([m[1;31morigin/contribucion-Rember[m[33m)[m
+Merge: c7612ee da51447
+Author: Sergio Renato Aldana Alvarez <60765721+sergioraldana@users.noreply.github.com>
+Date:   Sun Feb 9 16:28:48 2020 -0600
+
+    Merge branch 'master' into contribucion-Rember
+
+[33mcommit da51447628e10134dc17bd1796d41197062aa32c[m
+Merge: ac932ea aeb98a4
+Author: Sergio Renato Aldana Alvarez <60765721+sergioraldana@users.noreply.github.com>
+Date:   Sun Feb 9 16:27:26 2020 -0600
+
+    Merge pull request #38 from isabelgg22/Contribución-Valeria
+    
+    Contribución-Valeria
+
+[33mcommit aeb98a4f2a1097896b3add7099d5ca62a8e81432[m[33m ([m[1;31morigin/Contribución-Valeria[m[33m)[m
+Author: Valeprogra <60720812+Valeprogra@users.noreply.github.com>
+Date:   Sun Feb 9 16:05:31 2020 -0600
+
+    Contribución-Valeria
+
+[33mcommit ffa7a7b8f09bd26df8e4ab5e8e7d18540645e469[m
+Author: Oliver Rivera <alxrive@gmail.com>
+Date:   Sun Feb 9 15:52:32 2020 -0600
+
+    Contribucion Oliver
+
+[33mcommit ac932eaf2b725c15b1410816d52f388b0f7177a5[m
+Merge: ffcbf80 2e45715
+Author: Javierjimenezvazquez <60633430+Javierjimenezvazquez@users.noreply.github.com>
+Date:   Sun Feb 9 15:43:33 2020 -0600
+
+    Merge pull request #35 from isabelgg22/contribucion-javier
+    
+    "contribucionjavier"
+
+[33mcommit c7612eec41d58dbfaa7aa0ba863b0c592cbc7cf0[m
+Author: Rember Garcia <remberiori@gmail.com>
+Date:   Sun Feb 9 15:39:13 2020 -0600
+
+    contribucion-rembergarcia
+
+[33mcommit cc5e6114b4907f7780882a2688bb685310fa46aa[m
+Author: Rember Garcia <remberiori@gmail.com>
+Date:   Sun Feb 9 15:35:15 2020 -0600
+
+    contribucion-rembergarcia
+
+[33mcommit 2e45715ec5555babf57b68225e1295c9173e19c6[m[33m ([m[1;31morigin/contribucion-javier[m[33m)[m
+Author: Javier Jimenez <20002901@galileo.edu>
+Date:   Sun Feb 9 14:39:01 2020 -0600
+
+    "contribucionjavier"
+
+[33mcommit ffcbf80ed0d27d477b90a0e307ef293919fb6808[m
+Merge: 9f1a5f1 250cfed
+Author: mluise <60245125+mluise@users.noreply.github.com>
+Date:   Sun Feb 9 13:52:01 2020 -0600
+
+    Merge pull request #34 from isabelgg22/contribucionluis
+    
+    Aporte Luis
+
+[33mcommit 250cfeda5d467eb226b7f7e7d0daf5b5f60841d8[m
+Author: Luis Marroquin <lemarroquin96@gmail.com>
+Date:   Sun Feb 9 13:38:24 2020 -0600
+
+    Aporte Luis
+
+[33mcommit 9f1a5f186f078b99c26a487d5c8edaa20dc07dfe[m
+Merge: 0fddcb4 c57fac5
+Author: Sergio Renato Aldana Alvarez <60765721+sergioraldana@users.noreply.github.com>
+Date:   Sun Feb 9 12:26:43 2020 -0600
+
+    Merge pull request #32 from isabelgg22/renato
+    
+    Agrega la participación de Sergio Aldana al branch renato.
+
+[33mcommit c57fac5a9896940c5f3866d9c77eda308f8a2c8c[m
+Merge: 6ca8e47 0fddcb4
+Author: Sergio Renato Aldana Alvarez <60765721+sergioraldana@users.noreply.github.com>
+Date:   Sun Feb 9 12:26:24 2020 -0600
+
+    Merge branch 'master' into renato
+
+[33mcommit 0fddcb4cae7d06b900ffd29bcbf2fcf3453a0ca7[m
+Merge: f924d69 1893c5f
+Author: Sergio Renato Aldana Alvarez <60765721+sergioraldana@users.noreply.github.com>
+Date:   Sun Feb 9 12:12:22 2020 -0600
+
+    Merge pull request #31 from isabelgg22/unidad3-1
+    
+    Adding new line with personal information.
+
+[33mcommit 6ca8e478833c7e490838e4d18d4bc2d2291712b5[m
+Author: Renato Aldana <sergio.aldana@galileo.edu>
+Date:   Sun Feb 9 12:03:34 2020 -0600
+
+    Agrega la participación de Sergio Aldana al branch renato.
+
+[33mcommit 1893c5f7d311e0397f0fd72c4dfe98b413b5a907[m
+Author: Edsson Rodriguez <eddy_2020@hotmail.com>
+Date:   Sun Feb 9 11:47:03 2020 -0600
+
+    Adding new line with personal information.
+
+[33mcommit f924d69e62d35c4c5836a6438aecb989602fc7be[m
+Merge: f2fce7c 2e585b3
+Author: isabelgg22 <35257067+isabelgg22@users.noreply.github.com>
+Date:   Sat Feb 8 11:58:40 2020 +0100
+
+    Merge pull request #30 from isabelgg22/presentacion_Gustavo
+    
+    Presentación de alumno Gustavo en README.md con nombre y carné.
+
+[33mcommit 2e585b3521d01e018a2ff14f6bd909f3f5a0a36c[m
+Author: Gustavo Herrera <tavoxr23@gmail.com>
+Date:   Fri Feb 7 16:56:38 2020 -0600
+
+    Presentación de Gustavo con nombre y carné
+
+[33mcommit f2fce7c2214234bfac9e06653f579ff7ea74cf0a[m
+Merge: ab17f47 89c1731
+Author: Isabel Garcia <isabelgg22@gmail.com>
+Date:   Fri Feb 7 21:08:54 2020 +0100
+
+    Merge pull request #29 from isabelgg22/hugoGalindo-patch-1
+    
+    Update README.md
+
+[33mcommit ab17f47c9cf46c241fa9c116cd1af4828e227dc2[m
+Merge: c00c2b4 cd09153
+Author: isabelgg22 <35257067+isabelgg22@users.noreply.github.com>
+Date:   Fri Feb 7 21:04:46 2020 +0100
+
+    Merge pull request #28 from isabelgg22/contribucion-isabel
+    
+    Arreglando mi presentación en el Readme.md
+
+[33mcommit cd09153a35a7e6706a6d7ed8a1a07b763a6cb1a5[m
+Author: Isabel Garcia <isabelgg22@gmail.com>
+Date:   Fri Feb 7 21:02:30 2020 +0100
+
+    Arreglando mi presentacion en el Readme
+
+[33mcommit 89c173100b8dacb80ab5a14530365f62aebd9f25[m
+Author: hugoGalindo <60623203+hugoGalindo@users.noreply.github.com>
+Date:   Fri Feb 7 08:51:14 2020 -0600
+
+    Update README.md
+
+[33mcommit c00c2b46a872b4b545b252ce083c4a44a14696e9[m
+Merge: 271afc1 8d979a3
+Author: isabelgg22 <35257067+isabelgg22@users.noreply.github.com>
+Date:   Fri Feb 7 15:14:30 2020 +0100
+
+    Merge pull request #26 from isabelgg22/move-to-README
+    
+    Rename test.md to README.md
+
+[33mcommit 8d979a3e62d2f9356e19403a98924ff147772d23[m
+Author: Isabel Garcia <isabelgg22@gmail.com>
+Date:   Fri Feb 7 15:13:35 2020 +0100
+
+    Rename test.md to README.md
+
+[33mcommit 271afc1ad42e1f9d0059f90aa3673181ab55fdac[m
+Merge: 794cf7c 4d3afdc
+Author: Isabel Garcia <isabelgg22@gmail.com>
+Date:   Fri Feb 7 15:12:39 2020 +0100
+
+    Merge pull request #25 from isabelgg22/echacon_20002108
+    
+    Agregando mi nombre: Participacion UD3
+
+[33mcommit 4d3afdc966df1f2f0310a7de286a7ee2fce6b689[m
+Merge: 6dae49e 794cf7c
+Author: Isabel Garcia <isabelgg22@gmail.com>
+Date:   Fri Feb 7 15:12:26 2020 +0100
+
+    Merge branch 'master' into echacon_20002108
+
+[33mcommit 794cf7c4105ceac3e27667465c180bc95cb479e2[m
+Merge: 299b468 334dec5
+Author: AlecANL <57077592+AlecANL@users.noreply.github.com>
+Date:   Thu Feb 6 20:20:07 2020 -0600
+
+    Merge pull request #24 from isabelgg22/accessPR
+    
+    add my name and my number card
+
+[33mcommit 6dae49eb54522da4ac51d2d5f3a304fe92825464[m
+Author: Edwin Leonidas Chacón García <digyfenix.elcg@gmail.com>
+Date:   Thu Feb 6 16:24:16 2020 -0600
+
+    Agregando mi nombre: Participacion UD3
+
+[33mcommit 334dec5c01c38c1edc32606f370bfdfd1c6e978c[m
+Author: alec <alexeialvarez4@gmail.com>
+Date:   Wed Feb 5 21:10:04 2020 -0600
+
+    add my name and my number card
+
+[33mcommit 299b468e1f809a65d0358b40a0020b6996f15f8b[m
+Merge: 0aeca6c 16326ff
+Author: isabelgg22 <35257067+isabelgg22@users.noreply.github.com>
+Date:   Wed Feb 5 22:52:11 2020 +0100
+
+    Merge pull request #23 from isabelgg22/isabel22-patch-1
+    
+    Update test.md
+
+[33mcommit 16326ff7db00dabd663d50a40342f1267687842e[m
+Author: Isabel Garcia <isabelgg22@gmail.com>
+Date:   Wed Feb 5 22:51:36 2020 +0100
+
+    Update test.md
+
+[33mcommit 0aeca6cdbd84433dc1339292a29558a52a5d9e27[m
+Merge: 0c59b13 c84668b
+Author: Isabel Garcia <isabelgg22@gmail.com>
+Date:   Wed Feb 5 22:50:42 2020 +0100
+
+    Merge pull request #22 from isabelgg22/edwinb
+    
+    Edwinb
+
+[33mcommit c84668b742d190b17f53928ac46327223e044455[m
+Merge: 07151d9 0c59b13
+Author: isabelgg22 <35257067+isabelgg22@users.noreply.github.com>
+Date:   Wed Feb 5 22:47:38 2020 +0100
+
+    Merge branch 'master' into edwinb
+
+[33mcommit 0c59b130930f865fae2e6e206e0d5ea0c5dde22d[m
+Merge: 03be61d fb08e37
+Author: isabelgg22 <35257067+isabelgg22@users.noreply.github.com>
+Date:   Wed Feb 5 22:47:04 2020 +0100
+
+    Merge pull request #20 from Anaby-9/patch-1
+    
+    test.md
+
+[33mcommit 07151d9e1ff1fafee4c764ac3bf0d9817850d9b2[m
+Author: Edwin Barahona <edwin.barahona@galileo.edu>
+Date:   Tue Feb 4 21:40:01 2020 -0600
+
+    updated
+
+[33mcommit 86d43e7ceae55c7b901ecc57411c0beef64444a5[m
+Author: Edwin Barahona <edwin.barahona@galileo.edu>
+Date:   Tue Feb 4 21:37:34 2020 -0600
+
+    updated: 02-04-2020
+
+[33mcommit fb08e3774f0d478ef0b4ef129ff0c6ee02e1b523[m
+Merge: 70743c0 03be61d
+Author: Isabel Garcia <isabelgg22@gmail.com>
+Date:   Tue Feb 4 22:24:02 2020 +0100
+
+    Merge branch 'master' into patch-1
+
+[33mcommit 03be61de440463bc0866230fdd7d5e34f15a178b[m
+Merge: 7ce4267 07211f0
+Author: Isabel Garcia <isabelgg22@gmail.com>
+Date:   Tue Feb 4 22:23:06 2020 +0100
+
+    Merge pull request #21 from isabelgg22/20002582CambioTest
+    
+    Commit presentación 20002582
+
+[33mcommit 07211f0361d4325c2b1031363a7f43c8c4de88c8[m
+Author: Cristian Castellanos <crcf85@gmail.com>
+Date:   Tue Feb 4 15:11:33 2020 -0600
+
+    Commit presentación 20002582
+
+[33mcommit 70743c0ec1e78c6b53b848330801208245d7d7c7[m
+Author: Anaby-9 <60262016+Anaby-9@users.noreply.github.com>
+Date:   Fri Jan 24 05:51:09 2020 -0800
+
+    Update test.md
+
+[33mcommit 7ce42679e12bb78a3dd94ecca0801106a148272c[m
+Merge: 6ee9944 8a9584e
+Author: isabelgg22 <35257067+isabelgg22@users.noreply.github.com>
+Date:   Tue Jan 14 22:35:19 2020 +0100
+
+    Merge pull request #19 from isabel22/patch-1
+    
+    Update test.md
+
+[33mcommit 8a9584eea78b814d76d2d16dd09d7335b8c59354[m
+Author: Isabel Garcia <isabelgg22@gmail.com>
+Date:   Tue Jan 14 22:33:18 2020 +0100
+
+    Update test.md
+
+[33mcommit 6ee9944c52f2fa06f03a5624915e5e2815d36f98[m
+Merge: 0f26a72 b5c44e3
+Author: isabelgg22 <35257067+isabelgg22@users.noreply.github.com>
+Date:   Sat Feb 10 18:50:46 2018 +0100
+
+    Merge pull request #18 from TOMVIRULA/master
+    
+     Mi contribución
+
+[33mcommit b5c44e3909835bc1a9c469081791695a7ac138ca[m
+Author: Byron Virula <byron.virula@galileo.edu>
+Date:   Sat Feb 10 10:15:00 2018 -0600
+
+     Mi contribucion
+
+[33mcommit 0f26a72b20e91f91d3aaa3ffd2c43ece6e7652df[m
+Merge: fbc5c6e 70d67e4
+Author: Emily Merlos <35924735+emilymerlos@users.noreply.github.com>
+Date:   Mon Feb 5 07:38:06 2018 -0800
+
+    Merge pull request #15 from isabelgg22/nombreycarné
+    
+    Participación de Emily García Merlos
+
+[33mcommit 70d67e4938cd2c663682a9820ccad0b6b3ac4ee4[m
+Merge: 82d8386 6c7db96
+Author: Emily Merlos <emilygarmer@gmail.com>
+Date:   Mon Feb 5 07:10:17 2018 -0800
+
+    mejoras en la presentacion de mi visualizacion
+
+[33mcommit 82d838614eb1adcc3a80698eaa7e838d551059b2[m
+Author: Emily Merlos <emilygarmer@gmail.com>
+Date:   Mon Feb 5 05:33:57 2018 -0800
+
+    Mejorando la visualización de mi presentación
+
+[33mcommit 6c7db96d8c26bad10200d7f8b074bee712baacfb[m
+Merge: 058d205 fbc5c6e
+Author: isabelgg22 <35257067+isabelgg22@users.noreply.github.com>
+Date:   Mon Feb 5 09:57:16 2018 +0100
+
+    Merge branch 'master' into nombreycarné
+
+[33mcommit fbc5c6eb23ed9a15e27cbfdb21320eb0c629316d[m
+Merge: 13dcc06 16cde09
+Author: isabelgg22 <35257067+isabelgg22@users.noreply.github.com>
+Date:   Mon Feb 5 09:56:21 2018 +0100
+
+    Merge pull request #14 from isabelgg22/my-name/my-id
+    
+    agregar mi nombre y mi carnet
+
+[33mcommit 058d20504de9847a081bb5aa6fe6e3ec11d16393[m
+Author: Emily Merlos <emilygarmer@gmail.com>
+Date:   Sun Feb 4 20:57:09 2018 -0800
+
+    Hola, me llamo Emily García Merlos y mi numero de carné es 18009133
+
+[33mcommit 16cde0939271b73ec9ebb06887a9a59e9c9e63bf[m
+Author: jose <jose.andresgt11@gmail.com>
+Date:   Fri Feb 2 19:54:21 2018 -0600
+
+    agregar mi nombre y mi carnet
+
+[33mcommit 13dcc064e20499a170c9a7ee8821f468c9a4ff43[m
+Merge: 578a95c 20ca2c9
+Author: tavopm01 <35710105+tavopm01@users.noreply.github.com>
+Date:   Thu Feb 1 17:00:23 2018 -0600
+
+    Merge pull request #13 from isabelgg22/auxiliar
+    
+    agregando datos a test, semana 2
+
+[33mcommit 20ca2c9f90cbaf18fca915612f24959c55882ea1[m
+Author: Gustavo Pereira <tavopm@live.com>
+Date:   Thu Feb 1 16:52:09 2018 -0600
+
+    agregando datos a test
+
+[33mcommit 578a95ce5a1f855d44e89890b06d7f4e511039e3[m
+Merge: 3cd995d 327fa5a
+Author: cemp1977 <35786986+cemp1977@users.noreply.github.com>
+Date:   Thu Feb 1 15:08:29 2018 -0600
+
+    Merge pull request #12 from isabelgg22/nuevo
+    
+    Nuevo
+
+[33mcommit 327fa5adf7b713b2b6ded35c3b1f80fd495eda0f[m
+Merge: ce7190f 3cd995d
+Author: isabelgg22 <35257067+isabelgg22@users.noreply.github.com>
+Date:   Thu Feb 1 22:07:01 2018 +0100
+
+    Merge branch 'master' into nuevo
+
+[33mcommit 3cd995dfb6e581c08dc74ccbedabe1c586efcfc5[m
+Merge: 1f4db67 1e6bfab
+Author: isabelgg22 <35257067+isabelgg22@users.noreply.github.com>
+Date:   Thu Feb 1 19:42:48 2018 +0100
+
+    Merge pull request #6 from isabelgg22/alejandrotest
+    
+    Add my name and id
+
+[33mcommit 1e6bfab6188f62848d3838fdb890a33707df3b6f[m
+Merge: 8fb2ba2 1f4db67
+Author: isabelgg22 <35257067+isabelgg22@users.noreply.github.com>
+Date:   Thu Feb 1 19:42:38 2018 +0100
+
+    Merge branch 'master' into alejandrotest
+
+[33mcommit 1f4db67974dbda6d881c6e4866f462a896b1cd9c[m
+Merge: 4e7740b 44152ec
+Author: eduardojmorales <35808714+eduardojmorales@users.noreply.github.com>
+Date:   Thu Feb 1 12:39:35 2018 -0600
+
+    Merge pull request #10 from isabelgg22/Commit-a-repositorio-remoto
+    
+    Agregado de Nombre y Carné
+
+[33mcommit 44152ecd2b1a9e352568bdfb985a5a01cabcbad9[m
+Author: Edgar <edgar.jocol@galileo.edu>
+Date:   Thu Feb 1 12:35:44 2018 -0600
+
+    Agregado de Nombre y Carné
+
+[33mcommit ce7190fd7e67d5ca76c52a5d040fc32da4d3d75b[m
+Author: Cristian Montes <cemp1977@gmail.com>
+Date:   Thu Feb 1 11:25:14 2018 -0600
+
+    participacion 18008628
+
+[33mcommit 4e7740ba5152c2a5ab6635beae241bb898cad84f[m
+Merge: d51690c 141a2b5
+Author: duartefrancisco <35827376+duartefrancisco@users.noreply.github.com>
+Date:   Thu Feb 1 10:41:05 2018 -0600
+
+    Merge pull request #9 from isabelgg22/Mi-presentación
+    
+    Mi nombre y carné
+
+[33mcommit 8fb2ba22afc7d72166c784980706fa5f082442b8[m
+Merge: b8a3a23 d51690c
+Author: isabelgg22 <35257067+isabelgg22@users.noreply.github.com>
+Date:   Thu Feb 1 11:13:52 2018 +0100
+
+    Merge branch 'master' into alejandrotest
+
+[33mcommit 141a2b54ce378a13b1ba1447b1c1718c5c41ad41[m
+Author: Francisco Duarte <francisco.duarte@galileo.edu>
+Date:   Wed Jan 31 22:11:55 2018 -0600
+
+    Mi nombre y carné
+
+[33mcommit d51690c3ca06d5782e4477c627a694ce1137aa4f[m
+Merge: b81262e ba74661
+Author: Erikr03 <35877594+Erikr03@users.noreply.github.com>
+Date:   Wed Jan 31 16:34:10 2018 -0600
+
+    Merge pull request #8 from isabelgg22/presentacion
+    
+    Mi presentacion Erik
+
+[33mcommit ba746613f0fbdecf3af7c51e3d7d9c43d5df22d6[m
+Author: Erik Rodriguez <rodriguezestuardo.03@gmail.com>
+Date:   Wed Jan 31 15:57:19 2018 -0600
+
+    Mi presentacion Erik
+
+[33mcommit b81262edbad09d3e419b00c64b73e9f9a150293b[m
+Merge: b482fbe edb761b
+Author: wilvermartinezg <wilver.martinezg@gmail.com>
+Date:   Wed Jan 31 13:02:26 2018 -0600
+
+    Merge pull request #7 from isabelgg22/wilver-presentacion
+    
+    Agregue mi nombre y carné
+
+[33mcommit edb761b607da7f1573b86fe354004ea81e7da536[m
+Author: Wilver Martinez <wilver.martinezg@gmail.com>
+Date:   Wed Jan 31 12:53:57 2018 -0600
+
+    Agregue mi nombre y carné
+
+[33mcommit b8a3a23d9a38389d1fa6659e3dfe5217a5e7aaf5[m
+Author: Alejandro Acevedo <07117043@galileo.edu>
+Date:   Wed Jan 31 09:37:18 2018 -0600
+
+    Add my name and id
+
+[33mcommit b482fbe13d0cb1af43925fd54f320c6ab02211e5[m
+Merge: 5871305 ca8a8dc
+Author: Julio Palencia <35735638+JulioPalencia@users.noreply.github.com>
+Date:   Tue Jan 30 15:41:00 2018 -0600
+
+    Merge pull request #5 from isabelgg22/presentation/juliopalencia
+    
+    Presentacion en archivo .md
+
+[33mcommit ca8a8dcc84aee1cffbbf3a16afd890f0ad03dda1[m
+Author: jpalencia <jpalencia@autoweb.com>
+Date:   Tue Jan 30 15:37:59 2018 -0600
+
+    Add my presentation
+
+[33mcommit 58713054c94809d04a1dd557846d7c2f63e6ce44[m
+Merge: dc1ecd3 22c3bd0
+Author: raulIxc85 <35721770+raulIxc85@users.noreply.github.com>
+Date:   Tue Jan 30 01:58:36 2018 -0600
+
+    Merge pull request #4 from isabelgg22/Nueva_Linea
+    
+    Agregando nueva linea, presentacion
+
+[33mcommit 22c3bd0c5559d870837b57d4f76ea1be169eedd3[m
+Author: Raul Ixcot <raul.ixc@gmail.com>
+Date:   Mon Jan 29 23:32:18 2018 -0600
+
+    Agregando nueva linea,presentacion
+
+[33mcommit dc1ecd31331b5e41f87b8a4d0e74f1300135185f[m
+Merge: 4816c0d becf3a2
+Author: Mynor Lopez <mynlop15@gmail.com>
+Date:   Mon Jan 29 10:22:49 2018 -0600
+
+    Merge pull request #2 from isabelgg22/add_my_presentation
+    
+    agregue mi linea, presentandome
+
+[33mcommit becf3a2db13af2a2ed23c0f75ffb3cfbae5c3c20[m
+Author: mynlop15 <mynlop15@gmail.com>
+Date:   Sun Jan 28 09:15:54 2018 -0600
+
+    agregue mi linea, presentandome
+
+[33mcommit 4816c0df8520ccb09a078c93ae2cd31ba2cd8fcb[m
+Merge: c0d0e91 3d65682
+Author: isabelgg22 <35257067+isabelgg22@users.noreply.github.com>
+Date:   Sat Jan 27 19:41:43 2018 +0100
+
+    Merge pull request #1 from isabelgg22/feature/renames-file-to-md
+    
+    cambia la extension del archivo a md (markdown)
+
+[33mcommit 3d65682512e751eb2582930f0ca5ce76c4795400[m
+Author: Ed Mckain <mckain.default@gmail.com>
+Date:   Sat Jan 27 17:52:34 2018 +0100
+
+    cambia la extension del archivo a md (markdown)
+
+[33mcommit c0d0e91b5ecd71f05efbee0aaf1d49719d1c0610[m
+Author: Isabel Garcia <isabelgg22@gmail.com>
+Date:   Sat Jan 27 17:37:54 2018 +0100
+
+    primer post
