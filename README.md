@@ -1,4 +1,4 @@
-﻿Hola, mi nombre es Isabel y mi carné es 20052004.<br>
+Hola, mi nombre es Isabel y mi carné es 20052004.<br>
 Hola, me llamo Cristian Castellanos y mi carné es 20002582<br>
 Hola, me llamo Edwin Barahona y mi carné es 15004385!<br>
 Hola, mi nombre es Gabriela Recinos y mi carne es el 20003024.<br>
@@ -31,3 +31,4 @@ Hola, mi nombre es Gary Jiménez y mi carné es 20002483.<br>
 Hola mi nombre es Iveth Martin y mi carné es 20009051.<br>
 Hola, mi nombre es Milton Crisostomo Escalante y mi carné es 20006294.<br>
 Hola, mi nombre es Edwin Pérez y mi carneé es 20003529.<br>
+Hola, mi nombre es Karla Ortiz y mi carné es 19012620.<br>
