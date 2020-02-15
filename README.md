@@ -33,3 +33,4 @@ Hola, mi nombre es Milton Crisostomo Escalante y mi carné es 20006294.<br>
 Hola, mi nombre es Edwin Pérez y mi carneé es 20003529.<br>
 Hola, mi nombre es Karla Ortiz y mi carné es 19012620.<br>
 Hola, mi nombre es Axel Mazariegos y mi carné es 15008379.<br>
+Hola, mi nombre es Victor Hugo Salguero y mi carné es 20007505.<br>
